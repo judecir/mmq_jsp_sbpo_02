@@ -18,8 +18,8 @@ from pos_processamento import criar_df_comparacao
 
 prefixo_arq="t1"
 df = teste_manne_minlafav(prefixo_arq, 
-                          ini_amostra=0,
-                          tam_amostra=17,
+                          ini_amostra=17,
+                          tam_amostra=32,
                           tempo_max=3600*2, 
                           fl_primeira_sol=False
                           ,fl_heuristica_desabilitada=False)
