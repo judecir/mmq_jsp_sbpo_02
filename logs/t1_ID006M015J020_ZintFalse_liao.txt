@@ -1,0 +1,20 @@
+CPXPARAM_TimeLimit                               7200
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_RandomSeed                              201703173
+Parallel mode: deterministic, using up to 8 threads for concurrent optimization.
+Tried aggregator 1 time.
+LP Presolve eliminated 0 rows and 2850 columns.
+Reduced LP has 3150 rows, 3151 columns, and 9150 nonzeros.
+Presolve time = 0.00 sec. (3.15 ticks)
+Initializing dual steep norms . . .
+
+Iteration log . . .
+Iteration:     1   Dual objective     =           979.000000
+Perturbation started.
+Iteration:   101   Dual objective     =           979.000000
+Iteration:   184   Dual objective     =           979.575269
+Iteration:   357   Dual objective     =           980.552495
+Removing perturbation.
+
+Dual simplex solved model.
+
